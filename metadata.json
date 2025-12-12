@@ -1,0 +1,5 @@
+{
+  "name": "Community Pantry Scanner",
+  "description": "A digitial inventory assistant for food banks using Gemini to analyze donations instantly.",
+  "requestFramePermissions": []
+}
